@@ -1,0 +1,4 @@
+Introduction
+In this use case, we will embark on a journey to explore the capabilities of SAP HANA Cloud vector engine, SAP Generative AI Hub and the Langchain Framework. The goal is to equip you with the knowledge and skills to handle unstructured and semi-structured data and build efficient applications.
+
+Embed structured and semi-structured data using Large Language Models (LLMs) from SAP Generative AI Hub. Once the data is embedded, it will be stored in SAP HANA Cloud helping to store and query vector embeddings seamlessly.
